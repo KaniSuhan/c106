@@ -1,0 +1,27 @@
+.header_div{
+    background-color: aquamarine;
+    color: #fc03f0;
+    font-family: 'Special Elite', cursive;
+}
+
+.header_div p{
+    color:goldenrod;
+    font-family: 'Hurricane', cursive;
+    font-size: 25;
+}
+.main_div{
+    background-color: #1ea7dd;
+}
+.main_div button{
+    margin-top: 30px;
+}
+
+.copy_right_footer{
+    font-family: 'Lobster', cursive;
+    position: fixed;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   background-color: beige;
+   line-height: 3;
+}
